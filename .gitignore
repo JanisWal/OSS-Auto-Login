@@ -1,0 +1,3 @@
+# Lokale Laufzeitdateien gehoeren NICHT ins Repo (Konfiguration, Protokoll, Hilfsprogramm)
+.oss-autologin/
+*.bak
