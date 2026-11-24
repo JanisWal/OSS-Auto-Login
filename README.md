@@ -236,7 +236,7 @@ erste Anmeldung braucht nur Touch ID.
 - **Ein Mac ohne Touch ID** kann das Passwort nicht verschlüsselt speichern. Dort wird es
   bei jeder Anmeldung eingetippt.
 
-### Ehrlich gesagt
+### Wichtig
 
 - Das ist ein **Kompromiss zwischen Bequemlichkeit und Schutz**, kein vollständiger
   Schutz. Ein Schadprogramm mit vollen Rechten auf deinem Benutzer kann mehr, als dieses
